@@ -28,9 +28,3 @@ This project implements a binary text classification model to distinguish betwee
 
 - `fake.csv` and `true.csv` datasets from [Kaggle Fake News Detection Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
 
-## Steps to Run
-
-1. Clone this repository  
-```bash
-git clone https://github.com/your-username/fake-news-detection.git
-cd fake-news-detection
